@@ -1,0 +1,3 @@
+说明：
+problem.cc 对阻力因子更新策略进行了更改
+CurveFitting.cpp 对目标函数和残差进行了更改
